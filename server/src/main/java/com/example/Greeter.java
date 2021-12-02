@@ -1,4 +1,3 @@
-@DefaultAnnotation(NonNull.class)
 package com.example;
 
 /**
