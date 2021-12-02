@@ -1,7 +1,7 @@
 /**
- * Vroom
+ * Vroom.
  * <p>
- * Free Gwada
+ * Free Gwada.
  *
  * @since 1.0
  * @author Lionel
