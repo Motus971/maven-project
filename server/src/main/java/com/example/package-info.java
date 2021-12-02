@@ -1,5 +1,5 @@
 /**
- * Domain classes used to produce the JSON and XML output for the RESTful services. 
+ * Vroom
  * <p>
  * Free Gwada
  *
